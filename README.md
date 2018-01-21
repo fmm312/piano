@@ -1,8 +1,8 @@
 # Piano JS
 
-## Software que simula um piano.
+Software que simula um piano.
 
-[demo](https://fmm312.github.io/piano-js/.)
+[DEMO](https://fmm312.github.io/piano-js/.)
 
 ## Tecnologias
 - HTML
